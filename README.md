@@ -1,8 +1,6 @@
-# EXLskills AP® Computer Science A (Java) Course
+# EXLskills Java Basics Course
 
-This is the EXLskills free and open-source AP® (Advanced Placement®) Java Course. It guides learners via explanation, demonstration, and thorough practice, from no more than a basic understanding of Java, to a moderate level of essential coding proficiency. It is a substantial amount of coursework that represents a typical year of high school-level study or a semester of a University computer science course.
-
-This course may also be used to prepare for the AP® Computer Science A exam.
+This is the EXLskills free and open-source Java Basics Course. It guides learners via explanation, demonstration, and thorough practice, from no more than a basic understanding of Java, to a moderate level of essential coding proficiency.
 
 ## About EXLskills
 
@@ -33,7 +31,3 @@ If you have any questions regarding the license, please contact [licensing@exlin
 ## Enterprise / Commercial Licensing & Support
 
 For enterprise licenses and/or support, please send an email enquiry to [enterprise@exlinc.com](mailto:enterprise@exlinc.com)
-
-## AP® / Collegeboard Disclaimer
-
-AP® is a trademark owned by the College Board, which is not affiliated with, and does not endorse, this course.
